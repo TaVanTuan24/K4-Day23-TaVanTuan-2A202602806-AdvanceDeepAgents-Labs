@@ -1,0 +1,402 @@
+[
+  {
+    "n": 1,
+    "id": "2201.11903",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "date": "2022-01-28",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2211.10435",
+    "url": "https://arxiv.org/abs/2211.10435",
+    "title": "PAL: Program-aided Language Models",
+    "date": "2022-11-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2211.12588",
+    "url": "https://arxiv.org/abs/2211.12588",
+    "title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks",
+    "date": "2023-10-23",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2305.15334",
+    "url": "https://arxiv.org/abs/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "openai-function-calling-doc",
+    "url": "https://developers.openai.com/api/docs/guides/function-calling",
+    "title": "Function calling (OpenAI API developer guide)",
+    "date": null,
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2503.01763",
+    "url": "https://arxiv.org/abs/2503.01763",
+    "title": "Benchmarking Tool Retrieval for Large Language Models (ToolRet)",
+    "date": null,
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2504.13958",
+    "url": "https://arxiv.org/abs/2504.13958",
+    "title": "ToolRL: Reward is All Tool Learning Needs",
+    "date": "2025-04-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2504.11536",
+    "url": "https://huggingface.co/papers/2504.11536",
+    "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+    "date": "2025-04-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 12,
+    "id": "2503.09516",
+    "url": "https://arxiv.org/abs/2503.09516",
+    "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+    "date": "2025-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2311.12983",
+    "url": "https://arxiv.org/abs/2311.12983",
+    "title": "GAIA: a benchmark for General AI Assistants",
+    "date": "2023-11-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2307.13854",
+    "url": "https://arxiv.org/abs/2307.13854",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2404.07972",
+    "url": "https://arxiv.org/abs/2404.07972",
+    "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+    "date": "2024-04-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "benchmark-validity-audit-web",
+    "url": "https://ar5iv.labs.arxiv.org/html/2607.02577",
+    "title": "Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation",
+    "date": null,
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2508.14925",
+    "url": "https://arxiv.org/abs/2508.14925",
+    "title": "MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers",
+    "date": "2025-08-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2609.01660",
+    "url": "https://arxiv.org/abs/2609.01660",
+    "title": "How Fast Do Agents Rot? An Empirical Study of Long-Horizon Degradation in LLM Agents for Production Decision-Making",
+    "date": "2026-08-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2403.15452",
+    "url": "https://huggingface.co/papers/2403.15452",
+    "title": "What Are Tools Anyway? A Survey from the Language Model Perspective",
+    "date": "2024-03-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "dl-acm-tool-learning-survey",
+    "url": "https://dl.acm.org/doi/10.1145/3704435",
+    "title": "Tool Learning with Foundation Models (ACM Computing Surveys)",
+    "date": "2024-12-24",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "2510.11701",
+    "url": "https://huggingface.co/papers/2510.11701",
+    "title": "Demystifying Reinforcement Learning in Agentic Reasoning",
+    "date": "2025-10-13",
+    "source": "hf-daily"
+  },
+  {
+    "n": 22,
+    "id": "2508.18669",
+    "url": "https://huggingface.co/papers/2508.18669",
+    "title": "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use",
+    "date": "2025-08-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2305.11554",
+    "url": "https://arxiv.org/abs/2305.11554",
+    "title": "ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings",
+    "date": "2023-05-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2402.01030",
+    "url": "https://arxiv.org/abs/2402.01030",
+    "title": "Executable Code Actions Elicit Better LLM Agents",
+    "date": "2024-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "anthropic-code-execution-mcp",
+    "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+    "title": "Code execution with MCP: building more efficient AI agents",
+    "date": "2025-11-04",
+    "source": "web"
+  },
+  {
+    "n": 26,
+    "id": "programmatic-tool-calling-vs-json-bfcl-v4",
+    "url": "https://www.samcodeman.com/writing/programmatic-tool-calling-vs-json-bfcl-v4",
+    "title": "Programmatic tool calling vs JSON: BFCL v4",
+    "date": "2026-08-07",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "patil25a-pmlr",
+    "url": "https://proceedings.mlr.press/v267/patil25a.html",
+    "title": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models",
+    "date": null,
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "2308.08155",
+    "url": "https://arxiv.org/abs/2308.08155",
+    "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+    "date": "2023-08-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "autogen-agentchat-agents-docs",
+    "url": "https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/agents.html",
+    "title": "Agents - AutoGen documentation (Agent as a Tool)",
+    "date": null,
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "2308.00352",
+    "url": "https://arxiv.org/abs/2308.00352",
+    "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+    "date": "2023-08-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "2406.12045",
+    "url": "https://huggingface.co/papers/2406.12045",
+    "title": "tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "date": "2024-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 32,
+    "id": "2304.08244",
+    "url": "https://arxiv.org/abs/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "2023-04-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "2308.03688",
+    "url": "https://arxiv.org/abs/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2025-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "2506.07982",
+    "url": "https://huggingface.co/papers/2506.07982",
+    "title": "tau^2-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+    "date": "2025-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "2403.07714",
+    "url": "https://huggingface.co/papers/2403.07714",
+    "title": "StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models",
+    "date": "2024-03-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 36,
+    "id": "bfcl-leaderboard-web",
+    "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
+    "title": "Berkeley Function Calling Leaderboard (BFCL) V4 (leaderboard page)",
+    "date": "2026-04-12",
+    "source": "web"
+  },
+  {
+    "n": 37,
+    "id": "2309.10691",
+    "url": "https://arxiv.org/abs/2309.10691",
+    "title": "MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
+    "date": "2024-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 38,
+    "id": "toolfailbench-web",
+    "url": "https://ar5iv.labs.arxiv.org/html/2607.04686",
+    "title": "ToolFailBench: Diagnosing Tool-Use Failures in LLM Agents",
+    "date": null,
+    "source": "web"
+  },
+  {
+    "n": 39,
+    "id": "2508.01780",
+    "url": "https://huggingface.co/papers/2508.01780",
+    "title": "LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?",
+    "date": "2025-08-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 40,
+    "id": "anthropic-mcp-intro",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "title": "Introducing the Model Context Protocol",
+    "date": "2024-11-25",
+    "source": "web"
+  },
+  {
+    "n": 41,
+    "id": "openai-new-tools-for-building-agents",
+    "url": "https://openai.com/index/new-tools-for-building-agents/",
+    "title": "New tools for building agents",
+    "date": "2025-03-11",
+    "source": "web"
+  },
+  {
+    "n": 42,
+    "id": "mcp-registry-preview",
+    "url": "https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/",
+    "title": "Introducing the MCP Registry",
+    "date": "2025-09-08",
+    "source": "web"
+  },
+  {
+    "n": 43,
+    "id": "2506.23474",
+    "url": "https://huggingface.co/papers/2506.23474",
+    "title": "A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis (MCPCorpus)",
+    "date": "2025-06-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 44,
+    "id": "2503.23278",
+    "url": "https://huggingface.co/papers/2503.23278",
+    "title": "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions",
+    "date": "2025-03-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 45,
+    "id": "2609.22712",
+    "url": "https://arxiv.org/abs/2609.22712",
+    "title": "Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems",
+    "date": "2026-09-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 46,
+    "id": "2302.12173",
+    "url": "https://arxiv.org/abs/2302.12173",
+    "title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+    "date": "2023-05-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 47,
+    "id": "owasp-llm01-prompt-injection",
+    "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+    "title": "LLM01:2025 Prompt Injection / LLM03 (Excessive Agency) - OWASP Gen AI Security Project",
+    "date": "2024-04-10",
+    "source": "web"
+  },
+  {
+    "n": 48,
+    "id": "2410.02644",
+    "url": "https://huggingface.co/papers/2410.02644",
+    "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+    "date": "2024-10-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 49,
+    "id": "simonwillison-lethal-trifecta",
+    "url": "https://simonwillison.net/2025/jun/16/the-lethal-trifecta/",
+    "title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+    "date": "2025-06-16",
+    "source": "web"
+  },
+  {
+    "n": 50,
+    "id": "anthropic-claude-code-sandboxing",
+    "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+    "title": "Making Claude Code more secure and autonomous with sandboxing",
+    "date": "2025-10-20",
+    "source": "web"
+  }
+]

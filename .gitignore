@@ -3,3 +3,8 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+.uvcache/
+# scratch directories created by the offline tests, and stray per-run logs
+tests/.scratch-*/
+run.out
+run.err

@@ -1,0 +1,346 @@
+[
+  {
+    "n": 1,
+    "id": "2006.11239",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "date": "2020-12-16",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2112.10752",
+    "url": "https://arxiv.org/abs/2112.10752",
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "date": "2022-04-13",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2212.09748",
+    "url": "https://arxiv.org/abs/2212.09748",
+    "title": "Scalable Diffusion Models with Transformers",
+    "date": "2022-12-19",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2610.10524",
+    "url": "https://arxiv.org/abs/2610.10524",
+    "title": "GRACE: Generation-aware latent compression for efficient video generation",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2511.18870",
+    "url": "https://arxiv.org/abs/2511.18870",
+    "title": "HunyuanVideo 1.5 Technical Report",
+    "date": "2025-11-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2503.20314",
+    "url": "https://arxiv.org/pdf/2503.20314",
+    "title": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2503.09642",
+    "url": "https://arxiv.org/abs/2503.09642",
+    "title": "Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k",
+    "date": "2025-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2503.13319",
+    "url": "https://arxiv.org/abs/2503.13319",
+    "title": "MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Few-Step Synthesis",
+    "date": "2025-03-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2509.22622",
+    "url": "https://huggingface.co/papers/2509.22622",
+    "title": "LongLive: Real-time Interactive Long Video Generation",
+    "date": "2025-09-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2511.01266",
+    "url": "https://huggingface.co/papers/2511.01266",
+    "title": "MotionStream: Real-Time Video Generation with Interactive Motion Controls",
+    "date": "2025-11-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2510.09212",
+    "url": "https://huggingface.co/papers/2510.09212",
+    "title": "Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+    "date": "2025-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2510.02283",
+    "url": "https://huggingface.co/papers/2510.02283",
+    "title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+    "date": "2025-10-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2601.17761",
+    "url": "https://huggingface.co/papers/2601.17761",
+    "title": "AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation",
+    "date": "2026-01-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2409.17692v4",
+    "url": "https://arxiv.org/pdf/2409.17692v4",
+    "title": "MIO: A Foundation Model on Multimodal Tokens",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2603.06577",
+    "url": "https://huggingface.co/papers/2603.06577",
+    "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+    "date": "2026-03-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2604.00007",
+    "url": "https://huggingface.co/papers/2604.00007",
+    "title": "Dynin-Omni: Omnimodal Unified Large Diffusion Language Model",
+    "date": "2026-03-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2510.13721",
+    "url": "https://huggingface.co/papers/2510.13721",
+    "title": "NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching",
+    "date": "2025-10-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "transfusion-iclr-2025",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/12678c3948153f4bc391f51e2082bd6e-Paper-Conference.pdf",
+    "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2408.12528v6",
+    "url": "https://arxiv.org/html/2408.12528v6",
+    "title": "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation",
+    "date": "2024-10-21",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "mmdit-iccv-2025",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_Exploring_Multimodal_Diffusion_Transformers_for_Enhanced_Prompt-based_Image_Editing_ICCV_2025_paper.pdf",
+    "title": "Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "2404.12391",
+    "url": "https://arxiv.org/html/2404.12391",
+    "title": "On the Content Bias in Frechet Video Distance",
+    "date": "2024-04-18",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "2406.08656v1",
+    "url": "https://arxiv.org/html/2406.08656v1",
+    "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
+    "date": "2024-06-13",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2406.03520",
+    "url": "https://arxiv.org/abs/2406.03520",
+    "title": "VideoPhy: Evaluating Physical Commonsense for Video Generation",
+    "date": "2025-05-01",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "t2vphysbench",
+    "url": "https://openreview.net/pdf/f05cc4763f7b56903c1e8ae342c5bbd12fe0e9f8.pdf",
+    "title": "T2VPhysBench: A First-Principles Benchmark",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 25,
+    "id": "2412.03603",
+    "url": "https://arxiv.org/abs/2412.03603",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "date": "2024-12-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "nvidia-video-gen-infra",
+    "url": "https://research.nvidia.com/labs/eai/blogs/video-gen-is-an-infra-problem/",
+    "title": "Why Video Gen Is an Infra Problem",
+    "date": "2026-05-26",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "eu-code-practice-ai-content",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+    "title": "Code of Practice on Transparency of AI-generated Content",
+    "date": "2026-10-09",
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "1812.01717",
+    "url": "https://arxiv.org/abs/1812.01717",
+    "title": "Towards Accurate Generative Models of Video: A New Metric & Challenges",
+    "date": "2019-03-27",
+    "source": "web"
+  },
+  {
+    "n": 29,
+    "id": "2104.10157",
+    "url": "https://arxiv.org/abs/2104.10157",
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "2204.03458",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "title": "Video Diffusion Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 31,
+    "id": "2504.16081",
+    "url": "https://arxiv.org/abs/2504.16081",
+    "title": "Survey of Video Diffusion Models: Foundations, Implementations, and Applications",
+    "date": "2026-02-10",
+    "source": "web"
+  },
+  {
+    "n": 32,
+    "id": "2604.06339v1",
+    "url": "https://arxiv.org/html/2604.06339v1",
+    "title": "Evolution of Video Generative Foundations",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 33,
+    "id": "2610.06801",
+    "url": "https://huggingface.co/papers/2610.06801",
+    "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+    "date": "2026-10-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 34,
+    "id": "2610.12461",
+    "url": "https://huggingface.co/papers/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 35,
+    "id": "2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 36,
+    "id": "2503.21755",
+    "url": "https://huggingface.co/papers/2503.21755",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "2025-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 37,
+    "id": "2407.14505",
+    "url": "https://arxiv.org/abs/2407.14505",
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "date": "2024-07-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 38,
+    "id": "2310.11440v3",
+    "url": "https://arxiv.org/abs/2310.11440v3",
+    "title": "EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+    "date": "2024-03-23",
+    "source": "web"
+  },
+  {
+    "n": 39,
+    "id": "benchmarklist.com/benchmarks/vbench_video_generation",
+    "url": "https://benchmarklist.com/benchmarks/vbench_video_generation/",
+    "title": "VBench Video Generation Leaderboard Benchmark Scores & AI Model Leaderboard",
+    "date": "2026-10-03",
+    "source": "web"
+  },
+  {
+    "n": 40,
+    "id": "2406.08845",
+    "url": "https://arxiv.org/abs/2406.08845",
+    "title": "Rethinking Human Evaluation Protocol for Text-to-Video Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 41,
+    "id": "nvidia-autoregressive-video-gen",
+    "url": "https://research.nvidia.com/labs/eai/blogs/autoregressive-video-gen/",
+    "title": "Autoregressive Video Gen",
+    "date": "2026-07-13",
+    "source": "web"
+  },
+  {
+    "n": 42,
+    "id": "how-far-native-ar-video",
+    "url": "https://waynejin0918.github.io/how-far-native-ar-video/",
+    "title": "How Far Are We from a Native Autoregressive Video Model?",
+    "date": "2026-08-31",
+    "source": "web"
+  },
+  {
+    "n": 43,
+    "id": "copyright-office-part3",
+    "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "title": "Part 3: Generative AI Training",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

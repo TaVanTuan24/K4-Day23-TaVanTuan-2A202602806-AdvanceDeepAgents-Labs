@@ -1,0 +1,404 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/pdf/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-07-19",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "acl2026-findings-1162",
+    "url": "https://aclanthology.org/2026.findings-acl.1162.pdf",
+    "title": "From Signal Degradation to Computation Collapse: Uncovering the Two Failure Modes of LLM Quantization",
+    "date": "2026-07-02",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2411.02355",
+    "url": "https://huggingface.co/papers/2411.02355",
+    "title": "\"Give Me BF16 or Give Me Death\"? Accuracy-Performance Trade-Offs in LLM Quantization",
+    "date": "2024-11-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2401.09670",
+    "url": "https://arxiv.org/abs/2401.09670",
+    "title": "DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving",
+    "date": "2024-01-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2303.06865",
+    "url": "https://arxiv.org/abs/2303.06865",
+    "title": "FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU",
+    "date": "2023-03-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+    "date": "2025-02-04",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "2506.07900",
+    "url": "https://huggingface.co/papers/2506.07900",
+    "title": "MiniCPM4: Ultra-Efficient LLMs on End Devices",
+    "date": "2025-06-09",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "2504.21233",
+    "url": "https://huggingface.co/papers/2504.21233",
+    "title": "Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math",
+    "date": "2025-04-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "neurips2025-mirage-test-time-scaling",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fc067ac218430c409d6f65403328f740-Paper-Conference.pdf",
+    "title": "Does Thinking More Help? Mirage of Test-Time Scaling in Reasoning Models",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "redhat-reasoning-vs-inference-time-scaling",
+    "url": "https://developers.redhat.com/articles/2025/02/17/reasoning-versus-inference-time-scaling",
+    "title": "On reasoning versus inference-time scaling",
+    "date": "2025-02-17",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2604.22750",
+    "url": "https://arxiv.org/html/2604.22750v2",
+    "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2208.07339",
+    "url": "https://arxiv.org/abs/2208.07339",
+    "title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+    "date": "2022-08-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "1606.07947",
+    "url": "https://arxiv.org/abs/1606.07947",
+    "title": "Sequence-Level Knowledge Distillation",
+    "date": "2016-06-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2409.15790",
+    "url": "https://huggingface.co/papers/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2510.03847",
+    "url": "https://huggingface.co/papers/2510.03847",
+    "title": "Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade offs",
+    "date": "2025-10-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2506.02153",
+    "url": "https://arxiv.org/html/2506.02153v1",
+    "title": "Small Language Models are the Future of Agentic AI",
+    "date": "2025-06-02",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2210.17323",
+    "url": "https://arxiv.org/abs/2210.17323",
+    "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+    "date": "2022-10-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2306.00978",
+    "url": "https://arxiv.org/abs/2306.00978",
+    "title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+    "date": "2023-06-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2211.10438",
+    "url": "https://arxiv.org/abs/2211.10438",
+    "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+    "date": "2022-11-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "model-compression-survey-pmc11965593",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11965593/",
+    "title": "A survey of model compression techniques: past, present, and future",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "2409.11055",
+    "url": "https://huggingface.co/papers/2409.11055",
+    "title": "A Comprehensive Evaluation of Quantized Instruction-Tuned Large Language Models: An Experimental Analysis up to 405B",
+    "date": "2024-09-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2404.14047",
+    "url": "https://huggingface.co/papers/2404.14047",
+    "title": "How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study",
+    "date": "2024-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2605.19645",
+    "url": "https://huggingface.co/papers/2605.19645",
+    "title": "K-Quantization and its Impact on Output Performance",
+    "date": "2026-05-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2605.08894",
+    "url": "https://arxiv.org/abs/2605.08894",
+    "title": "Fitting Is Not Enough: Smoothness in Extremely Quantized LLMs",
+    "date": "2026-05-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "gptq-awq-comparison-bestaiweb",
+    "url": "https://www.bestaiweb.ai/gptq-vs-awq-vs-gguf-vs-bitsandbytes-quantization-formats-and-their-tradeoffs-explained/",
+    "title": "GPTQ vs AWQ vs GGUF vs bitsandbytes: Which Wins?",
+    "date": "2026-03-26",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "2301.00774",
+    "url": "https://arxiv.org/abs/2301.00774",
+    "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+    "date": "2023-01-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "2306.11695",
+    "url": "https://arxiv.org/abs/2306.11695",
+    "title": "A Simple and Effective Pruning Approach for Large Language Models",
+    "date": "2023-06-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "iclr2024-wanda",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/14c856c7a41297804de4c4890e846b25-Paper-Conference.pdf",
+    "title": "A Simple and Effective Pruning Approach for Large Language Models (Wanda, ICLR 2024)",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "2504.17768",
+    "url": "https://huggingface.co/papers/2504.17768",
+    "title": "The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs",
+    "date": "2025-04-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 31,
+    "id": "2503.19786",
+    "url": "https://huggingface.co/papers/2503.19786",
+    "title": "Gemma 3 Technical Report",
+    "date": "2025-03-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 32,
+    "id": "2505.09388",
+    "url": "https://huggingface.co/papers/2505.09388",
+    "title": "Qwen3 Technical Report",
+    "date": "2025-05-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 33,
+    "id": "2205.14135",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "date": "2022-05-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "2307.08691",
+    "url": "https://arxiv.org/abs/2307.08691",
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+    "date": "2023-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 35,
+    "id": "2211.17192",
+    "url": "https://arxiv.org/abs/2211.17192",
+    "title": "Fast Inference from Transformers via Speculative Decoding",
+    "date": "2022-11-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 36,
+    "id": "2302.01318",
+    "url": "https://arxiv.org/abs/2302.01318",
+    "title": "Accelerating Large Language Model Decoding with Speculative Sampling",
+    "date": "2023-02-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 37,
+    "id": "vllm-blog-2023",
+    "url": "https://blog.vllm.ai/2023/06/20/vllm.html",
+    "title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention",
+    "date": "2023-06-20",
+    "source": "web"
+  },
+  {
+    "n": 38,
+    "id": "2311.18677",
+    "url": "https://arxiv.org/abs/2311.18677",
+    "title": "Splitwise: Efficient Generative LLM Inference Using Phase Splitting",
+    "date": "2023-11-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 39,
+    "id": "2306.14048",
+    "url": "https://arxiv.org/abs/2306.14048",
+    "title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
+    "date": "2023-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 40,
+    "id": "2309.17453",
+    "url": "https://arxiv.org/abs/2309.17453",
+    "title": "Efficient Streaming Language Models with Attention Sinks",
+    "date": "2023-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 41,
+    "id": "2502.14866",
+    "url": "https://huggingface.co/papers/2502.14866",
+    "title": "LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention",
+    "date": "2025-02-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "2403.20041",
+    "url": "https://arxiv.org/abs/2403.20041",
+    "title": "Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs",
+    "date": "2024-03-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 43,
+    "id": "apple-coreml-llama-3-1",
+    "url": "https://machinelearning.apple.com/research/core-ml-on-device-llama",
+    "title": "On Device Llama 3.1 with Core ML",
+    "date": "2024-11-01",
+    "source": "web"
+  },
+  {
+    "n": 44,
+    "id": "smollm2-1-7b-model-card",
+    "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B",
+    "title": "HuggingFaceTB/SmolLM2-1.7B model card",
+    "source": "web"
+  },
+  {
+    "n": 45,
+    "id": "2412.08347",
+    "url": "https://huggingface.co/papers/2412.08347",
+    "title": "SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better Reasoning in SLMs",
+    "date": "2024-12-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 46,
+    "id": "2506.07712",
+    "url": "https://huggingface.co/papers/2506.07712",
+    "title": "Through the Valley: Path to Effective Long CoT Training for Small Language Models",
+    "date": "2025-06-09",
+    "source": "hf-daily"
+  },
+  {
+    "n": 47,
+    "id": "mlperf-5-1-small-llm",
+    "url": "https://mlcommons.org/2025/09/small-llm-inference-5-1/",
+    "title": "MLPerf Inference 5.1: Benchmarking Small LLMs with Llama3.1-8B",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 48,
+    "id": "2604.04651",
+    "url": "https://arxiv.org/abs/2604.04651",
+    "title": "Search, Do not Guess: Teaching Small Language Models to Be Effective Search Agents",
+    "date": "2026-04-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 49,
+    "id": "aws-blog-slm-on-premises-edge",
+    "url": "https://aws.amazon.com/blogs/compute/running-and-optimizing-small-language-models-on-premises-and-at-the-edge/",
+    "title": "Running and optimizing small language models on-premises and at the edge",
+    "date": "2025-06-23",
+    "source": "web"
+  },
+  {
+    "n": 50,
+    "id": "2604.02460",
+    "url": "https://arxiv.org/html/2604.02460",
+    "title": "Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets",
+    "source": "web"
+  },
+  {
+    "n": 51,
+    "id": "2503.05066",
+    "url": "https://huggingface.co/papers/2503.05066",
+    "title": "Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts",
+    "date": "2025-03-06",
+    "source": "hf-search"
+  }
+]
