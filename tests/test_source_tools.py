@@ -15,6 +15,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from stubs import imported  # noqa: E402  (tests/ is on sys.path)
 
+# Deliberately synthetic values used only to prove that redact() blanks a key.  They are NOT credentials
+# and are written to be unmistakable to a secret scanner (RUBRIC 6.1 must never see a key-like string).
+FAKE_KEY_A = "NOT-A-REAL-CREDENTIAL-test-fixture-A"
+FAKE_KEY_B = "NOT-A-REAL-CREDENTIAL-test-fixture-B"
+
 DAILY_PAYLOAD = [
     {
         "paper": {
@@ -290,7 +295,7 @@ class SourceToolTests(unittest.TestCase):
 
     def test_response_detail_never_leaks_a_key(self):
         tools = self.tools
-        secret = "exa-secret-abcdef0123456789"
+        secret = FAKE_KEY_A
         with mock.patch.dict(os.environ, {"EXA_API_KEY": secret}):
             detail = tools._response_detail(mock.Mock(text=f"bad key?exaApiKey={secret} and {secret}"))
         self.assertNotIn(secret, detail)
@@ -318,7 +323,7 @@ class SourceToolTests(unittest.TestCase):
     # ---- secrets ----------------------------------------------------------------------------------
     def test_exa_api_key_rides_in_the_url_but_is_redacted_from_errors(self):
         tools = self.tools
-        secret = "exa-secret-key-0123456789abcdef"
+        secret = FAKE_KEY_B
         with mock.patch.dict(os.environ, {"EXA_API_KEY": secret}):
             self.assertIn(f"exaApiKey={secret}", tools._exa_endpoint())
             self.assertEqual(tools._secrets(), (secret,))

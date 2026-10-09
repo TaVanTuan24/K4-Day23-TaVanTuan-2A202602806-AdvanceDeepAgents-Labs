@@ -85,10 +85,6 @@ def _source_number(entry):
     return number
 
 
-def _source_numbers(sources):
-    return [_source_number(entry) for entry in sources if _source_number(entry) is not None]
-
-
 def check(report_text, sources):
     """Return a list of problem strings (empty list = OK).  Implements GUIDE.md part 4, rules 1-7.
 
